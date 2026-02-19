@@ -57,4 +57,4 @@ The only thing you need from that CSS snippet is the NAME
 # Other notes:
 1. self-start prevents flex elements from growing in the Cross Axis
 2. class="relative w-1/3 h-full bg-[url('........')] bg-left bg-cover bg-no-repeat"
-      
+3. Remove the input boxes' browser default outline: outline-none      
